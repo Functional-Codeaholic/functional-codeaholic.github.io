@@ -1,0 +1,57 @@
+body {
+    background-color: #272727;
+    background-image: url('./background-marble.png');
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+.login h1 a {
+    background-size: 320px !important;
+    height: 127px !important;
+    width: 320px !important;
+}
+
+.login form,
+.login form p {
+    color: #ffe400; 
+}
+
+.login form {
+    background: #74747433;
+    border: 1px solid #74747466;
+}
+
+.login #backtoblog a, 
+.login #nav a {
+    color: #ffe400;
+
+}
+
+
+.login #backtoblog a:hover, 
+.login #nav a:hover {
+    color: #14a76c;
+}
+
+.thanks {
+    color: #747474;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+
+#fcLogo {
+    font-weight: bold;
+}
+
+.function {
+    color: #14a76c;
+}
+
+.al {
+    color: #ffe400;
+}
+
+.codeaholic {
+    color: #ff652f;
+}

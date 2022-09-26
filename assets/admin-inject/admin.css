@@ -1,0 +1,98 @@
+@font-face {
+    font-family: 'Aclonica';
+    src: url('./assets/fonts/Aclonica-Regular.ttf') format('ttf');
+  }
+
+body {
+    color: #747474;    
+}
+
+#wpadminbar a img {
+    width: 35px;
+}
+
+#wpcontent {
+    background-color: #272727;
+    background-image: url('./background-marble.png');
+    background-size: contain;
+    background-attachment: fixed;
+    min-height: 100vh !important;
+}
+
+.postbox {
+    background: #74747433;
+    border: 1px solid #74747466;
+}
+
+.postbox-container, #post-body-content {
+    background-color: #474747aa;
+}
+
+#post-body-content {
+    padding-bottom: 20px;
+    margin-bottom: 0;
+}
+
+h1, h2, h3,
+h4, h5, h6 {
+    font-family: bungee hairline;
+    font-weight: bold;
+    color: #ffe400;
+}
+
+.form-table th, .form-wrap label {
+    background: #14a76c !important;
+    color: #ff652f;
+}
+
+#adminmenuwrap {
+    background-color: #272727;
+}
+
+.wp-core-ui .button-primary {
+    background: #14a76c;
+    border-color: #14a76c;
+    color: #272727;
+}
+
+.wp-core-ui .button-primary:hover {
+    background: #14a76c66;
+    border-color: #14a76c33;
+}
+
+#dws-notes-user .dws-notes-user-note {
+    background-color: #74747433;
+}
+
+.postbox .inside h2 {
+    font-size: 18px;
+    color: #ff652f;
+}
+
+.thanks {
+    color: #747474;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+
+.brought {
+    font-style: italic;
+    font-size: .75rem;
+}
+
+.fcLogo {
+    font-weight: bold;
+}
+
+.function {
+    color: #14a76c;
+}
+
+.al {
+    color: #ffe400;
+}
+
+.codeaholic {
+    color: #ff652f;
+}
